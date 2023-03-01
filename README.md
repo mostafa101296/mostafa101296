@@ -2,7 +2,7 @@
     <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
      </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hussein+👨‍💻+%F0%9F%91%8B;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mostafa+👨‍💻+%F0%9F%91%8B;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" alt="Headline" />
     </div>
 </div>
 
