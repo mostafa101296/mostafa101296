@@ -13,7 +13,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&height=60&lines=SoftWare+Engineering+Student+;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
 </p>
 
-####################################################
+
   
  ## Visitors count:
   
@@ -40,7 +40,7 @@
 
 - Junior Software engineer has experience in mobile development using flutter framework and dart programming language. 
 <br><br>
-########################################################
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa101296&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa101296" /> </p>
 
