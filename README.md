@@ -13,6 +13,25 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&height=60&lines=SoftWare+Engineering+Student+;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
 </p>
 
+<br><br>
+- I'm Hussein from Egypt, Cairo.<br>
+ 
+- I do special mobile apps.<br>
+
+- I have a deep interest in computer sciences.<br>
+
+- I have fun learning programming.<br> 
+
+- Junior Software engineer has experience in mobile development using flutter framework and dart programming language. 
+<br><br>
+  
+ ## Visitors count:
+  
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=HusseinMohamed99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HusseinMohamed99/count.svg?"  />
+</div>
+
   
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 30>  About me
 
