@@ -63,9 +63,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+## Github Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa101296&show_icons=true&locale=en&layout=compact" alt="mostafa101296" /></p>
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=github_dark&hide_border=true&username=HusseinMohamed99"  alt="Hussein's GitHub Stats "  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?theme=github_dark&hide_border=true&layout=compact&username=HusseinMohamed99" height="195"  alt="Hussein's Langs Stats"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa101296&show_icons=true&locale=en" alt="mostafa101296" /></p>
+###
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinMohamed99&theme=algolia" alt="HusseinMohamed99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa101296&" alt="mostafa101296" /></p>
+
+
+![snake gif](https://github.com/HusseinMohamed99/HusseinMohamed99/blob/main/github-contribution-grid-snake.gif)
+      </div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+</div>
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+
