@@ -20,11 +20,22 @@
   <img height="500" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"  />
 </div>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa101296&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa101296" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa101296" alt="mostafa101296" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mostafaabdo1296" target="blank"><img src="https://img.shields.io/twitter/follow/mostafaabdo1296?logo=twitter&style=for-the-badge" alt="mostafaabdo1296" /></a> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mustafamohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mustafamohamed" height="30" width="40" /></a>
 <a href="https://twitter.com/mostafaabdo1296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafaabdo1296" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mustafa abdelkawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa abdelkawy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mustafa-abdelkawy-955878174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustafa-abdelkawy-955878174/" height="30" width="40" /></a>
 <a href="https://fb.com/geka.enssan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geka.enssan" height="30" width="40" /></a>
 <a href="https://instagram.com/mustafa_abdelkawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafa_abdelkawy" height="30" width="40" /></a>
 </p>
