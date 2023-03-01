@@ -14,7 +14,7 @@
 </p>
 
 <br><br>
-- I'm ’Mostafa from Egypt, Cairo.<br>
+- I'm Mostafa from Egypt, Cairo.<br>
  
 - I do special mobile apps.<br>
 
