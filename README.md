@@ -13,17 +13,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&height=60&lines=SoftWare+Engineering+Student+;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
 </p>
 
-<br><br>
-- I'm Mostafa from Egypt, Cairo.<br>
- 
-- I do special mobile apps.<br>
-
-- I have a deep interest in computer sciences.<br>
-
-- I have fun learning programming.<br> 
-
-- Junior Software engineer has experience in mobile development using flutter framework and dart programming language. 
-<br><br>
+####################################################
   
  ## Visitors count:
   
@@ -39,6 +29,18 @@
   <img height="500" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"  />
 </div>
 
+<br><br>
+- I'm Mostafa from Egypt, Cairo.<br>
+ 
+- I do special mobile apps.<br>
+
+- I have a deep interest in computer sciences.<br>
+
+- I have fun learning programming.<br> 
+
+- Junior Software engineer has experience in mobile development using flutter framework and dart programming language. 
+<br><br>
+########################################################
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa101296&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa101296" /> </p>
 
